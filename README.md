@@ -1,5 +1,5 @@
 # ProjetoFinalAssembly
- Projeto final da disciplina de Arquitetura de Computadores I com a linguaguem de baixo nível Assembly.
+ Projeto final da disciplina de Arquitetura de Computadores I com a linguaguem de baixo nível Assembly. Minha equipe e eu recebemos 10 como nota. Hehe.
 
 O código fornecido possui duas funções principais: (1) Criptografar e (2) Descriptografar.
 
